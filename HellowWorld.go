@@ -24,4 +24,8 @@ func main() {
 	//mixed variable declaration
 	var v3, v4, v5 = 1, 2, "string"
 	fmt.Printf("a : %T b: %T C: %T \n", v3, v4, v5)
+
+	//constant
+	const cnt string = "value of "
+ 
 }
